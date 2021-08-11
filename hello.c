@@ -3,6 +3,7 @@
 
 int main(){
 	printf("Hello, world.");
+	printf("Tokyo Olympic!");
 	system("PAUSE");
 	return 0;
 }
